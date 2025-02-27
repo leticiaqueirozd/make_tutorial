@@ -2,6 +2,7 @@
 #include <hellomake.h>
 
 void myPrintHelloMake(void) { 
-    printf("Hello my friend Makefile!\n");
+    char anyName[] = "Letícia"; 
+    printf("Hello my friend %s!\n", anyName); 
     return; 
 }
