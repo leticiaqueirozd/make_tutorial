@@ -2,7 +2,7 @@
 #include <hellomake.h>
 
 void myPrintHelloMake(void) { 
-    char anyName[] = "Letícia"; 
+    char anyName[] = "Letícia Teste"; 
     printf("Hello my friend %s!\n", anyName); 
     return; 
 }
